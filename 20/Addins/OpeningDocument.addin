@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Opening Revit Document</Text>
+    <Description>Open any Revit document in sequence</Description>
+    <Assembly>OpeningDocument.dll</Assembly>
+    <FullClassName>OpeningDocument.Command</FullClassName>
+    <ClientId>f1fbc46e-84d9-4d33-a7c7-0818edd7bce1</ClientId>
+    <VendorId>caiolopssants</VendorId>
+    <VendorDescription>caiolopssants Revit command x64 </VendorDescription>
+  </AddIn>
+</RevitAddIns>
